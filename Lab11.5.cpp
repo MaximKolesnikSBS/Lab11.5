@@ -6,12 +6,12 @@
           Создать произвольный класс , в котором определить метод для вычисления комплексного синуса.  
 */
 
-#include<iostream>
-#include<stdlib.h>
-#include<conio.h>;
-#include<climits>
-#include<cmath>
-#define_USE_MATH_DEFINES
+#include <iostream>
+#include <stdlib.h>
+#include <conio.h>;
+#include <climits>
+#include <cmath>
+#define _USE_MATH_DEFINES
 using namespace std;
 
 struct complex {
